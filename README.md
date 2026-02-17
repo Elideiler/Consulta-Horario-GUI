@@ -15,3 +15,16 @@ debes instalar la librería en tu terminal o consola de comandos antes de ejecut
 Es necesario tener instalado Python y la librería CustomTkinter:
 ```bash
 pip install customtkinter
+
+
+### Cómo usarlo
+1. **Ejecuta el archivo principal:**
+   ```bash
+   python programa.py
+Selecciona el día de la semana en el menú desplegable.
+
+Ingresa la hora en formato 24h (ej. 14 para las 2:00 PM).
+
+¡Listo! Verás tu clase asignada al instante.
+
+Proyecto desarrollado para el laboratorio de Técnica de Programación.
