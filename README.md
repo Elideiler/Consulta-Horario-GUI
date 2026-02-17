@@ -9,6 +9,14 @@ Un organizador de clases sencillo desarrollado en **Python** utilizando el parad
 - Consulta de clases por día y hora (formato 24h).
 - Manejo de errores para entradas no válidas.
 - Modo oscuro (Dark Mode) por defecto.
+
+- ## Vista Previa del Sistema
+
+Aquí puedes ver cómo luce la interfaz gráfica del organizador:
+
+![Pantalla Principal](Captura%201.PNG)
+
+![Consulta de Horario](Captura2.PNG)
   
 - ### 🚀 Cómo usarlo
 1. **Ejecuta el archivo principal:**
@@ -27,5 +35,7 @@ debes instalar la librería en tu terminal o consola de comandos antes de ejecut
 Es necesario tener instalado Python y la librería CustomTkinter:
 ```bash
 pip install customtkinter
+
+
 
 
