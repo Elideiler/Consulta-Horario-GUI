@@ -11,6 +11,7 @@ Un organizador de clases sencillo desarrollado en **Python** utilizando el parad
 - Modo oscuro (Dark Mode) por defecto.
 
 ##  Requisitos
+debes instalar la librería en tu terminal o consola de comandos antes de ejecutarlo
 Es necesario tener instalado Python y la librería CustomTkinter:
 ```bash
 pip install customtkinter
